@@ -15,3 +15,4 @@ Entre em contato comigo:
 <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 
   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdrChaves&compact)
