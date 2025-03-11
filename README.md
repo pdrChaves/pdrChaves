@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Pedro Chaves, fique a vontade!
 <div>
-  <img heigh="180cm" src="https://github-readme-stats.vercel.app/api?username=pdrChaves&show_icons=true&size_weight=0.5&count_weight=0.5&bg_color=00000000&theme=e.g"/>
-  <img heigh="360cm" width= "240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrChaves&langs_count=8&bg_color=00000000&theme=e.g"/>
+  <img heigh="180cm" src="https://github-readme-stats.vercel.app/api?username=pdrChaves&show_icons=true&size_weight=0.5&count_weight=0.5&bg_color=00000000&theme=highcontrast"/>
+  <img heigh="360cm" width= "240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrChaves&langs_count=8&bg_color=00000000&theme=highcontrast"/>
 </div>
 
  ## Tecnologias que utilizo:
