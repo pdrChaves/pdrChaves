@@ -1,6 +1,5 @@
 # 👋 Olá! Eu sou o Pedro Chaves
-Apaixonado por tecnologia.   
-Atualmente focado em **backend, bots e integração de sistemas**.
+  Atualmente focado em **full-stack, bots e integração de sistemas**.
 ---
 <div>
   <img heigh="180cm" width= "400" src="https://github-readme-stats.vercel.app/api?username=pdrChaves&show_icons=true&size_weight=0.5&count_weight=0.5&bg_color=00000000&theme=transparent"/>
