@@ -1,9 +1,8 @@
-# 👋 Olá! Eu sou o Pedro Chaves
-  Atualmente focado em **full-stack, bots e automações**.
+# `👋 Olá! Eu sou o Pedro Chaves`
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdrChaves&layout=compact&title_color=e6edf3&text_color=ffffff&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🚀 Tecnologias que utilizo
+## `🚀 Tecnologias que utilizo`
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
@@ -12,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 </div>
 
- ## Entre em contato comigo!
+ ## `Entre em contato comigo!`
 <div> 
   <a href="https://www.linkedin.com/in/pdr-chaves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pedroa.chaves10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
