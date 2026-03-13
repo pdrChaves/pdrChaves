@@ -1,6 +1,4 @@
 # `👋 Olá! Eu sou o Pedro Chaves`
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdrChaves&layout=compact&title_color=e6edf3&text_color=ffffff&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ## `🚀 Tecnologias que utilizo`
 <div style="display: flex; gap: 10px;">
@@ -9,6 +7,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdrChaves&layout=compact&title_color=e6edf3&text_color=ffffff&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
  ## `Entre em contato comigo!`
