@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Pedro Chaves
   Atualmente focado em **full-stack, bots e automações**.
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdrChaves&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdrChaves&layout=compact&title_color=e6edf3&text_color=ffffff&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Tecnologias que utilizo
 <div style="display: flex; gap: 10px;">
