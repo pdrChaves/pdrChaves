@@ -17,10 +17,10 @@
 <!-- grafico e estatisticas -->
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="GitHub Stats de Pedro" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=pdrChaves&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=008000&icon_color=008000" height="192px" width="49%"/>
+  <img alt="GitHub Stats de Pedro" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=pdrChaves&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=131313&title_color=008000&icon_color=008000" height="192px" width="49%"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Linguagens mais usadas" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pdrChaves&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=008000&icon_color=0075ff&card_width=400" height="192px" width="49%"/>
+  <img alt="Linguagens mais usadas" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pdrChaves&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=131313&title_color=008000&icon_color=0075ff&card_width=400" height="192px" width="49%"/>
 </a>
 <br/>
 <!--
@@ -29,7 +29,7 @@
   -->
 <p align="center">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Gráfico de atividade de Pedro" src="https://github-readme-activity-graph.vercel.app/graph/?username=pdrChaves&bg_color=1F222E&color=008000&line=008000&point=FFFFFF&hide_border=true" width="100%"/>
+  <img alt="Gráfico de atividade de Pedro" src="https://github-readme-activity-graph.vercel.app/graph/?username=pdrChaves&bg_color=131313&color=008000&line=008000&point=FFFFFF&hide_border=true" width="100%"/>
 </a>
 </p>
 
