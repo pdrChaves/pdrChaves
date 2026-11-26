@@ -76,12 +76,9 @@ I focus on **APIs, automation and Artificial Intelligence**: I enjoy building wh
 
 <div align="center">
 
-<!-- A instância pública do github-readme-stats vive estourando o limite e quebrando as imagens.
-     Faça um fork de github.com/anuraghazra/github-readme-stats, deploy grátis na Vercel
-     e troque o domínio abaixo pelo da sua instância. -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pdrChaves&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats-iota-ten-92.vercel.app/api?username=pdrChaves&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="GitHub Stats"/>
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrChaves&layout=compact&langs_count=6&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="Linguagens mais usadas"/>
+<img height="170" src="https://github-readme-stats-iota-ten-92.vercel.app/api/top-langs/?username=pdrChaves&layout=compact&langs_count=6&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="Linguagens mais usadas"/>
 
 <br><br>
 
